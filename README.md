@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alizkarami
-- 👀 I’m love coding -> PHP, Python, Java, NodeJS
+- 👀 I love coding -> PHP, Python, Java, NodeJS
 - 🌱 I'd like learning new tech
   
 <!---
